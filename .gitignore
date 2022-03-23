@@ -1,0 +1,5 @@
+# IDE - VSCode
+.vs
+.vscode
+/obj
+/bin/Debug/net5.0
